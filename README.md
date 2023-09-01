@@ -1,1 +1,1 @@
-# TinDog made using BootStrap
+# TinDog made using BootStrap ONLY
